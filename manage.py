@@ -1,4 +1,4 @@
-#!/usr/bin/env python  ! bienbenidos 
+#!/usr/bin/env python  ! bienvenidos 
 import os
 import sys
 
