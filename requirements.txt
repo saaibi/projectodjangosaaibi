@@ -13,7 +13,7 @@ duplicity==0.6.23
 greenlet==0.4.9
 httplib2==0.8
 lockfile==0.8
-lxml==3.3.3
+lxml==4.6.5
 ndg-httpsclient==0.4.0
 oauthlib==0.6.1
 oneconf==0.3.7.14.4.1
